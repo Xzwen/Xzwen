@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋,I’m Xzwen,You can call me Vinter
 
 <!--
 **Xzwen/Xzwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 仓库状态统计
+![Xzwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xzwen&show_icons=true&theme=tokyonight)
+### 主页访问量统计
+![Visitor Count](https://profile-counter.glitch.me/Xzwen/count.svg)
+### 常用语言占比统计
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xzwen&layout=compact&theme=tokyonight)
